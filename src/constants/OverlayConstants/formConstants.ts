@@ -1,0 +1,5 @@
+export const SIMPLE_INPUT = 'SIMPLE_INPUT';
+export const DRAGGABLE_INPUT = 'DRAGGABLE_INPUT';
+export const SIMPLE_INPUT_WITH_BUTTON = 'SIMPLE_INPUT_WITH_BUTTON';
+export const SELECT_INPUT = 'SELECT_INPUT';
+// export const SIMPLE_INPUT = '';

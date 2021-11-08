@@ -1,0 +1,23 @@
+.container {
+  display: flex;
+  margin: 20px auto;
+}
+.rightSideContainer {
+  text-align: center;
+  width: 70%;
+  height: 100%;
+  margin-left: 20px;
+}
+.titleContainer {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+}
+.videoButton {
+  margin: 2rem;
+  width: 6rem;
+  height: 2rem;
+}
+.titleButton {
+  height: 2rem;
+}
